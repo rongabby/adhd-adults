@@ -374,7 +374,7 @@ Colors:
 - [ ] Notion template cover image
 - [ ] Gumroad product card image (1280x720px)
 - [ ] Etsy listing images (5-10 images, 2000x2000px)
-- [ ] Social media profile images (各platform)
+- [ ] Social media profile images (each platform)
 - [ ] Open Graph image for website (1200x630px)
 - [ ] Video thumbnail templates
 - [ ] Email header image
