@@ -136,8 +136,8 @@ These are **complete guided programs** for ADHD adults.
 
 **Available**:
 - ✅ 30-Day ADHD Reset Challenge (complete)
+- ✅ Gentle Gratitude & Wins Journal (complete)
 - 🔨 Values & Identity Clarifier (in progress)
-- 🔨 Gentle Gratitude & Wins Journal (in progress)
 - 🔨 Quarterly Life Review (in progress)
 
 **Format**: Markdown with daily/weekly structure
